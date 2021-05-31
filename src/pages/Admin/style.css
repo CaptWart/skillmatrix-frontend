@@ -1,0 +1,40 @@
+.adminTable {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+#areaList > ul {
+    list-style-type: none;
+    margin-right: 30px;
+  }
+  
+#areaList > li {
+    margin-top: 18px;
+  }
+
+#skillList > ul {
+    list-style-type: none;
+    margin-right: 30px;
+  }
+  
+#skillList > li {
+    margin-top: 18px;
+  }
+
+
+ .button {
+    width: 80px;
+    height: 30px;
+    background:#f2f2f2;
+    border-radius:4px;
+    margin-left: 20px;
+    border:1px solid #ddd;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  
